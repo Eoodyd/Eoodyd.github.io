@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eoodyd.github.io/sitemap.xml
