@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://eoodyd.github.io/authors/</loc>
+    <loc>https://github.com/Eoodyd/Eoodyd.github.io/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://eoodyd.github.io/categories/</loc>
+    <loc>https://github.com/Eoodyd/Eoodyd.github.io/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://eoodyd.github.io/series/</loc>
+    <loc>https://github.com/Eoodyd/Eoodyd.github.io/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://eoodyd.github.io/tags/</loc>
+    <loc>https://github.com/Eoodyd/Eoodyd.github.io/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
